@@ -1,0 +1,17 @@
+" let Vundle manage Vundle
+" required vundles 
+Bundle 'gmarik/vundle'
+
+Bundle 'tpope/vim-rails'
+Bundle 'scrooloose/nerdtree'
+Bundle 'nelstrom/vim-blackboard'
+
+Bundle 'better-snipmate-snippet'
+Bundle 'taglist.vim'
+Bundle 'corntrace/bufexplorer'
+Bundle 'AutoClose'
+Bundle 'ctrlp.vim'
+Bundle 'better-snipmate-snippet'
+Bundle 'Command-T'
+Bundle 'ack.vim'
+Bundle 'matchit.zip'
